@@ -1,1 +1,1 @@
-# banking-data-analysis-w-python
+# Bank Data Analysis Using Python
